@@ -32,7 +32,7 @@ Params
 ```key```: The key (if provided) in the 1st step  
 
 3\. Acquire access token  
-```POST /oauth/approve```  
+```POST /oauth/get-access-token```  
 Params  
 ```client_id```: *Required* The client ID received when registering TPA  
 ```client_secret```: *Required* The client secret received when registering TPA  
